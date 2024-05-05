@@ -68,3 +68,4 @@ resetTimerButton.addEventListener("click", () => {
   startTimerButton.removeAttribute("disabled");
   stopTimerButton.setAttribute("disabled", "true");
 });
+git;
